@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+
+/**
+ * @author APCS1 Silvia Zou
+ *
+ */
+public class Calculate {
+	public static void main(String[] args){
+		double number = 5;
+		double numberDoubled = square(number);
+		System.out.println(numberDoubled);
+	}
+}
+
+public double square(double number){
+	double answer;
+	answer = (number * number);
+	return answer;
+}

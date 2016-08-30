@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+
+/**
+ * @author APCS1 Silvia Zou
+ *
+ */
+public class Calculate {
+	public double square(double number){
+		return number * number;
+	}
+}
+
